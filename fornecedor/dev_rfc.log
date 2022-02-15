@@ -1,0 +1,10 @@
+
+**** Log file opened at 2022-01-13 10:50:14.652501 UTC-03:00 (Hora oficial do Brasil), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: c:\Users\guilherme.gomes\Documents\Projetos\fornecedor, Program: python
+ Hardware: PC with Windows NT 6x AMD64 Level 6 (Mod 158 Step 10), Operating_system: Windows NT 10.0
+ Hostname: TI04, IP address: 192.168.2.212, IPv6 address: fe80::1c7b:4358:79c6:4aa8
+
+2022-01-13 10:50:14.653544 [25736] >> Info entry
+	Did not find config file c:\Users\guilherme.gomes\Documents\Projetos\fornecedor\sapnwrfc.ini.
